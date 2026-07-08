@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio-dashboard",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\Users\\vaibh\\Desktop\\Investments\\dashboard\\server.js"],
+      "port": 5173
+    }
+  ]
+}
